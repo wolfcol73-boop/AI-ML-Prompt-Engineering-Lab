@@ -1,10 +1,6 @@
 # AI-ML-Prompt-Engineering-Lab
-## Company Analyzed
-Fidelity Investments – U.S.-based financial services firm.
-
-## Objective
-Use prompt engineering to generate a professional SWOT analysis focused on market positioning and the role of market analytics.
-
-## Files
-- `Prompt_Revisions.docx`: Documented iterations of AI prompts used to refine SWOT output.
-- `swot_analysis.pdf`: Final SWOT analysis based on refined prompts.
+AI-ML-Prompt-Engineering-Lab/
+├── README.md                     # Lab overview and company name
+├── Prompt_Revisions.docx         # Google Doc downloaded as .docx
+├── swot_analysis.pdf              # Final SWOT analysis
+└── Planning consultant Fidelity Investments AI.docx  # Expanded SWOT iterations + final version
